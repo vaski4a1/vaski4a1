@@ -10,7 +10,7 @@ I like to code, go outside and play some games from time to time.
 
 
 ## 🚀 Projects
-- 🔐 [Password Vault](https://github.com/vaski4a/password-vault) – Local offline password manager with JSON encryption
+- 🔐 [Password Vault](https://github.com/vaski4a1/password-vault) – Local offline password manager with JSON encryption
 
 
 ## 🌐 Connect with me
