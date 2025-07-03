@@ -10,7 +10,8 @@ I like to code, go outside and play some games from time to time.
 
 
 ## 🚀 Projects
-- 🔐 [Password Vault](https://github.com/vaski4a1/password-vault) – Local offline password manager with JSON encryption
+- 🔐 [Password Vault](https://github.com/vaski4a1/password-vault) – Local offline password manager.
+- 📷 [Image Watermarker](https://github.com/vaski4a1/image-watermarker) – C# WinForms app that adds customizable, rotated watermarks to images — browse, preview, and save with ease. Perfect for protecting your photos with style.
 
 
 ## 🌐 Connect with me
